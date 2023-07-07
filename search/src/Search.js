@@ -6,6 +6,8 @@ import './Search.css';
 class Search extends Component {
   constructor(props) {
     super(props);
+
+    //Defining state for topic, question and answer
     this.state = {
       query: '',
       question: '',
@@ -16,12 +18,14 @@ class Search extends Component {
   handleClick = async (e) => {
     e.preventDefault();
 
+    // Check for topic and question
     if (!this.state.query || !this.state.question) {
         alert('Please enter both the search topic and question.');
         return;
       }
 
     try {
+      //Post request with topic and question
       const response = await axios.post('http://localhost:5000/searchQuery', {
         query: this.state.query,
         question: this.state.question
@@ -34,10 +38,13 @@ class Search extends Component {
     }
   };
 
+  //Method to handle query change
   handleQueryChange = (e) => {
     this.setState({ query: e.target.value, answer:'' });
   };
 
+  
+  //Method to handle change for question
   handleQuestionChange = (e) => {
     this.setState({ question: e.target.value, answer:'' });
   };
