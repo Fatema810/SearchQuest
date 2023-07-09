@@ -40,7 +40,7 @@ def result_questions(results, question):
 # Iterate over each result in the 'results' list
         for result in results:
     # Access the 'snippet' key
-            snippet_lst = result['snippet']
+            snippets_lst = result['snippet']
             snippets_lst.append(snippets_lst)
 
         page_content = ' '.join(snippets_lst)
