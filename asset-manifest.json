@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/search/static/css/main.ab473052.css",
-    "main.js": "/search/static/js/main.3453f0cd.js",
-    "static/js/787.e819d9a6.chunk.js": "/search/static/js/787.e819d9a6.chunk.js",
-    "static/media/blue.avif": "/search/static/media/blue.0f682bdc8140fe63788a.avif",
-    "index.html": "/search/index.html",
-    "main.ab473052.css.map": "/search/static/css/main.ab473052.css.map",
-    "main.3453f0cd.js.map": "/search/static/js/main.3453f0cd.js.map",
-    "787.e819d9a6.chunk.js.map": "/search/static/js/787.e819d9a6.chunk.js.map"
+    "main.css": "/SearchQuest/static/css/main.046feaed.css",
+    "main.js": "/SearchQuest/static/js/main.9dcf8a4e.js",
+    "static/js/787.e819d9a6.chunk.js": "/SearchQuest/static/js/787.e819d9a6.chunk.js",
+    "static/media/blue.avif": "/SearchQuest/static/media/blue.0f682bdc8140fe63788a.avif",
+    "index.html": "/SearchQuest/index.html",
+    "main.046feaed.css.map": "/SearchQuest/static/css/main.046feaed.css.map",
+    "main.9dcf8a4e.js.map": "/SearchQuest/static/js/main.9dcf8a4e.js.map",
+    "787.e819d9a6.chunk.js.map": "/SearchQuest/static/js/787.e819d9a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab473052.css",
-    "static/js/main.3453f0cd.js"
+    "static/css/main.046feaed.css",
+    "static/js/main.9dcf8a4e.js"
   ]
 }
