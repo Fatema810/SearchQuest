@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/SearchQuest/static/css/main.046feaed.css",
-    "main.js": "/SearchQuest/static/js/main.9dcf8a4e.js",
+    "main.js": "/SearchQuest/static/js/main.a5cb8291.js",
     "static/js/787.e819d9a6.chunk.js": "/SearchQuest/static/js/787.e819d9a6.chunk.js",
     "static/media/blue.avif": "/SearchQuest/static/media/blue.0f682bdc8140fe63788a.avif",
     "index.html": "/SearchQuest/index.html",
     "main.046feaed.css.map": "/SearchQuest/static/css/main.046feaed.css.map",
-    "main.9dcf8a4e.js.map": "/SearchQuest/static/js/main.9dcf8a4e.js.map",
+    "main.a5cb8291.js.map": "/SearchQuest/static/js/main.a5cb8291.js.map",
     "787.e819d9a6.chunk.js.map": "/SearchQuest/static/js/787.e819d9a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.046feaed.css",
-    "static/js/main.9dcf8a4e.js"
+    "static/js/main.a5cb8291.js"
   ]
 }
