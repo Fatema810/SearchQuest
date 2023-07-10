@@ -26,7 +26,7 @@ class Search extends Component {
 
     try {
       //Post request with topic and question
-      const response = await axios.post('http://localhost:5000/searchQuery', {
+      const response = await axios.post('https://regal-tract-392320.uc.r.appspot.com/searchQuery', {
         query: this.state.query,
         question: this.state.question
       });
