@@ -1,5 +1,5 @@
 # SearchQuest
-This is a React component allows users to enter a search topic and a related question. 
+This is a React component that allows users to enter a search topic and a related question. 
 
 ## Description
 The component provides an input field for the search topic and another input field for the related question. 
